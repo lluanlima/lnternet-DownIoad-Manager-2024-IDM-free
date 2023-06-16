@@ -6,7 +6,7 @@ Resultado da imersão Jornada Dev desenvolvida pela EBAC
 
 ## 💡 Tecnologias Usadas:
 
-- 💪 HTML, CSS e JavaScript
+- 💪 HTML, CSS, JavaScript e React
 
 ## 📞 Contato
 
