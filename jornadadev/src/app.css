@@ -3,7 +3,7 @@ html {
 }
 
 .App {
-  background-image: url('../BG-New.png');
+  background-image: url("../BG-New.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -34,4 +34,11 @@ html {
 .app__videos {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+@media only screen and (max-width: 440px) {
+  .app__videos {
+    height: 100vh;
+    width: 100%;
+  }
 }
