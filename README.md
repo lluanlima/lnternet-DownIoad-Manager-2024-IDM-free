@@ -1,4 +1,4 @@
-##🚀 Projeto: Clone TikTok
+#🚀 Projeto: Clone TikTok
 
 Link Final do Projeto: https://shortsbitbug.web.app/
 
